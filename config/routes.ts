@@ -31,17 +31,12 @@
 		hideInMenu: true,
 	},
 	{
-		path: '/random-user',
-		name: 'RandomUser',
-		component: './RandomUser',
-		icon: 'ArrowsAltOutlined',
+		path: '/course-management',
+		name: 'Quan Ly Khoa Hoc',
+		component: './CourseManagement',
+		icon: 'BookOutlined',
 	},
-	{
-		path: '/todo-list',
-		name: 'TodoList',
-		icon: 'OrderedListOutlined',
-		component: './TodoList',
-	},
+
 
 	// DANH MUC HE THONG
 	// {
